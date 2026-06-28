@@ -62,20 +62,10 @@
 ## 3 · Repo Structure
 
 ```
-your-folder/
-├── Netflix_EDA_GrayInterface26.ipynb   ← Full notebook (14 plots + pipeline)
+Kshitiz/
+├── Netflix_EDA_GrayInterface26.ipynb   ← Full notebook
 └── README.md                           ← This file
 ```
 
 ---
 
-## 4 · How to Run
-
-1. Open the notebook in **Google Colab**.
-2. Run the first cell to install `kagglehub` and `wordcloud`.
-3. Set up your Kaggle API token — go to kaggle.com → Settings → API → Create Token → upload `kaggle.json` to Colab.
-4. Run all cells top to bottom. Everything is sequential.
-
----
-
-*"In data science, seeing the data clearly is often more valuable than a black-box model."*
